@@ -14,6 +14,16 @@
 A collection of <strong>13</strong> desert-inspired Tmux colorscheme status lines; with <strong>dual light/dark modes</strong>.
 </p>
 
+## 🙀 Changes in this Fork
+
+This fork makes changes to align the theme with my desktop, i.e.
+* adds a new “Bond Dark” theme (slight changes from “Twilight Dark”)
+* changes angled style to a rounded one
+* adds the host to right status (and removed seconds) to comply with my old tmux theme
+* removes the background from pane borders to make the background visible
+
+I did not redo the screenshots, sorry.
+
 ## 🎨 Status Bar with Dynamic Modes
 
 Wouldn't it be nice to know what mode you're in? And not just one mode, but for **ALL modes like in Vim**.
